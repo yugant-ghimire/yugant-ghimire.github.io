@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-06-03-B-Trees and B+ Trees.md",
+                "file": "_posts/2025-06-07-Notes-on-Agent-Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-03-B-Trees and B+ Trees"
+              "title": "2025-06-07-Notes-on-Agent-Architecture"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2025-06-03-B-Trees and B+ Trees.md",
+                "file": "_posts/2025-06-07-uuid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-06-03-B-Trees and B+ Trees"
+              "title": "Backlinks for 2025-06-07-uuid"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2025-06-03-B-Trees and B+ Trees.md",
+                "file": "_posts/2025-06-07-uuid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-06-03-B-Trees and B+ Trees"
+              "title": "Outgoing links from 2025-06-07-uuid"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2025-06-03-B-Trees and B+ Trees.md",
+                "file": "_posts/2025-06-07-uuid.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-06-03-B-Trees and B+ Trees"
+              "title": "Outline of 2025-06-07-uuid"
             }
           }
         ]
@@ -170,9 +170,10 @@
   },
   "active": "804360fd6ce62251",
   "lastOpenFiles": [
+    "_posts/2025-06-03-B-Trees and B+ Trees.md",
+    "_posts/2025-06-07-Notes-on-Agent-Architecture.md",
     "about.md",
     "index.md",
-    "_posts/2025-06-03-B-Trees and B+ Trees.md",
     "_posts/2024-01-12-intro-to-jykell.md"
   ]
 }

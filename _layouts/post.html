@@ -30,6 +30,9 @@ layout: base
       </div>
       {%- endif %}
     </div>
+    {%- if page.co_written_with_ai %}
+    <p class="ai-badge"><a href="{{ '/co-written-with-ai/' | relative_url }}">Co-written with AI</a></p>
+    {%- endif %}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
